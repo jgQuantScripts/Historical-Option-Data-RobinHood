@@ -16,7 +16,7 @@ mod_json <- function(x, type) {
 }
 
 chain_symbol = "VXX"
-type = "put" # put
+type = "put" # put/call
 expiration = "2021-03-05"
 strike_prc = 14.5
 # interval =  '5minute'|'10minute'|'hour'|'day'|'week'
